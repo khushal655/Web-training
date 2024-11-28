@@ -1,0 +1,64 @@
+
+/* .box {
+    background-color: rgb(216, 237, 60);
+    padding: 50px;
+    border: 20px dotted yellow;
+    margin: 50px;
+} */
+
+body {
+    background-color: pink;
+}
+.container {
+    background-color: coral;
+    width: 100%;
+    min-height: 100vh;
+    margin: 50px;
+
+}
+.box {
+    background-color: chocolate;
+    width: 150px;
+    border: 4px solid gray;
+    height: 150px;
+    margin: 5px;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: dashed;
+}
+.box-1 {
+    background-color: lightblue;
+    position: absolute;
+    top: 300px; 
+    left: 575px;
+    z-index: 4;
+}
+.box-2 {
+    background-color: lightblue;
+    position: absolute;
+    top: 400px; 
+    left: 700px;
+    z-index: 2;
+}
+.box-3 {
+    background-color: lightblue;
+    position: absolute;
+    top: 400px; 
+    left: 450px;
+    z-index: 2;
+}
+.box-4 {
+    background-color: lightblue;
+    position: absolute;
+    top: 200px;
+    left: 450px;
+    z-index: 2;
+}
+.box-5 {
+    background-color: lightblue;
+    position: absolute;
+    top: 200px; 
+    left: 700px;
+    z-index: 2;
+}
+    
