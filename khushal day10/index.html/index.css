@@ -1,0 +1,25 @@
+#song {
+    align-items: center;
+    align-content: center;
+    padding: 20px;
+    border: 4px solid green;
+    border: width 5px;
+    margin: 30px;
+
+}
+
+
+.box {
+    font-style: italic;
+    font-size: 40px;
+    color: blue;
+    font-weight: 900;
+}
+
+#col {
+    font-style: italic;
+    font-size: 40px;
+    color: blue;
+    font-weight: 900;
+}
+
